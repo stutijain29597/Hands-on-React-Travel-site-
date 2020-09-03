@@ -24,6 +24,8 @@
 .main-navigation__title a {
   text-decoration: none;
   color: white;
+  font-family: monospace;
+  font-size: smaller;
 }
 
 .main-navigation__header-nav {
